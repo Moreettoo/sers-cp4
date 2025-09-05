@@ -1,3 +1,13 @@
+Instruções
+
+Para a parte 1 e 2 utilize o dataset individual+household+electric+power+consumption.zip
+ 
+Para a parte 3 e 4 utilize o dataset energydata_complete.csv
+ 
+
+
+Respostas:
+
 36- O dataset tem 9 variáveis e 20755259 registros.
 
 37- A distribuição de Global_active_power na amostra é muito semelhante à da base completa.
